@@ -6,3 +6,5 @@ if weight_unit == 'K':
 else:
     weight = float(weight) / 2.76
     print(weight)
+
+print("Conversion finished")
